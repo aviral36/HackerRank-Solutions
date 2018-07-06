@@ -1,23 +1,21 @@
-import os
-import sys
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
 
-#
-# Complete the simpleArraySum function below.
-#
-def simpleArraySum(ar):
-    #
-    # Write your code here.
-    #
 
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    ar_count = int(input())
-
-    ar = list(map(int, input().rstrip().split()))
-
-    result = simpleArraySum(ar)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+int main(){
+    int n, sum=0;
+    cin >> n;
+    vector<int> arr(n);
+    for(int arr_i = 0;arr_i < n;arr_i++){
+       cin >> arr[arr_i];
+    }
+    for( int arr_i=0; arr_i<n; arr_i++){
+        sum=sum+arr[arr_i]; 
+    }
+    cout<<sum;
+    return 0;
+}
