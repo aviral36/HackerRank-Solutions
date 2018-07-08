@@ -22,4 +22,4 @@ Repo under development - more solutions are added everyday.
 
 #
 
-[![hackerrank-logo](https://github.com/aviral36/HackerRank-Solutions/blob/master/Hackerrank_Logo.png "Hackerrank Logo")](https://www.hackerrank.com)
+[![hackerrank-logo](https://github.com/aviral36/HackerRank-Solutions/blob/master/Hackerrank_Logo.png "Visit HackerRank")](https://www.hackerrank.com)
