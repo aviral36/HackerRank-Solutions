@@ -17,3 +17,9 @@
 All the codes are written on Python 3.
 
 Repo under development - more solutions are added everyday.
+
+<br>
+
+#
+
+[![hackerrank-logo](https://github.com/aviral36/HackerRank-Solutions/blob/master/Hackerrank_Logo.png "Hackerrank Logo")](www.hackerrank.com)
