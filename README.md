@@ -25,6 +25,7 @@ Anyone with a basic knowledge of Python can contribute towards this repository. 
 - Clone HackerRank-Solutions to your Github account.
 - Add new files/solutions to your HackerRank-Solutions clone repository.
 - Make a pull request to this repository.
+
 Once the pull request gets accepted, your update will be reflected on this repository.
 
 ## Opening an issue
