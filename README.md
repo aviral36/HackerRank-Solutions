@@ -1,7 +1,7 @@
 # HackerRank Solutions
 
 <hr>
- _"Temporary solutions often become permanent problems." - Craig Bruce_
+<i> "Temporary solutions often become permanent problems." - Craig Bruce </i>
 <hr>
 [![HitCount](http://hits.dwyl.io/aviral36/HackerRank-Solutions.svg)](http://hits.dwyl.io/aviral36/HackerRank-Solutions)
 
