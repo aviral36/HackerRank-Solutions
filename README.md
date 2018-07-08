@@ -1,7 +1,8 @@
 # HackerRank Solutions
 
-<hr>
-<i> "Temporary solutions often become permanent problems." - Craig Bruce </i>
+
+ <p align = "center"><i> <strong>"You can't trust the code that you did not totally create youself." </strong><br>   - Ken Thompson </i>
+</p>
 <hr>
 
 [![Hit-Counter](http://hits.dwyl.io/aviral36/HackerRank-Solutions.svg)](http://hits.dwyl.io/aviral36/HackerRank-Solutions) 
