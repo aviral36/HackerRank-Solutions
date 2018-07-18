@@ -6,25 +6,32 @@ import random
 import re
 import sys
 
-# Complete the repeatedString function below.
-def repeatedString(s, n):
-    count = s.count('a')
-    l = len(s)
-    fullstrings = int(n/l)
-    result = fullstrings*count
-    remainder = n%l
-    partialstring = s[:remainder]
-    result = result + partialstring.count('a')
-    return result
-
+# Complete the jumpingOnClouds function below.
+def jumpingOnClouds(c):
+    count = 0
+    l = len(c)
+    i=0
+    while i!=l-1:
+        if i==l-2:
+            count = count+1
+            i=i+1
+        else:
+            if c[i+2]==0:
+                count = count+1
+                i = i+2
+            else:
+                count = count+1
+                i = i+1
+    return count
+            
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    s = input()
-
     n = int(input())
 
-    result = repeatedString(s, n)
+    c = list(map(int, input().rstrip().split()))
+
+    result = jumpingOnClouds(c)
 
     fptr.write(str(result) + '\n')
 
