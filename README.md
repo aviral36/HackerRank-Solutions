@@ -14,9 +14,9 @@
 <br>
 
 This repository contains solutions to problems given on [HackerRank](https://www.hackerrank.com).
-All the codes are written on Python 3 and pass all the test cases of HackerRank. 
+All the codes are written on Python 3 and C++ and pass all the test cases of HackerRank. 
 
-Solutions are segregated according to tracks in HackerRank. At present, there are no solutions to rated contests apart from Project Euler. Contributors are always welcome!
+Solutions are segregated according to tracks in HackerRank. At present, there are solutions to rated contests like University Codesprint apart from unrated contests like Project Euler. Contributors are always welcome!
 
 
 ## Contributions
