@@ -1,6 +1,6 @@
 ## Track HackerRank > Practice > Problem Solving
 
-Codes written in this section are a mix of Python2 and Python3.
+Algorithm codes written in this section are a mix of Python2 and Python3. Data Structure codes are written on C++.
 
 It takes considerable amount of time to segregate these into different languages. 
 
