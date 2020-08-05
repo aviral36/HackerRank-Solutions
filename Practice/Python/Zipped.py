@@ -10,4 +10,3 @@ sumli=zip(*li)
 for part in sumli:
     average=sum(part)/X
     print average
-        
