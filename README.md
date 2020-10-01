@@ -26,7 +26,7 @@ Anyone with a basic knowledge of Python can contribute towards this repository. 
 - Add new files/solutions to your HackerRank-Solutions clone repository.
 - Make a pull request to this repository.
 
-Once the pull request gets accepted, your update will be reflected on this repository.
+Once the pull request gets accepted, your update will be reflected on this repository. I will try to merge pull requests within a week.
 
 ## Opening an issue
 
